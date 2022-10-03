@@ -35,6 +35,6 @@ Although this cheat is undetected, I would advise either using an alt account or
 ```                
                            
 <img src="https://user-images.githubusercontent.com/62274829/193498056-22eddd3f-fb81-4528-9ea0-381ae70caff2.jpg">
-`image used was during testing (before i removed watermark)
+`image used was during testing (before i removed watermark)`
  
  
