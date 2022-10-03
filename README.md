@@ -31,12 +31,10 @@ MANY MORE
 [4] Join a world/server, then press Ins to open the menu.
 
  ```sh-session
-`Although this cheat is undetected, I would advise either using an alt account or using discrete hacks.`
-
-``
+Although this cheat is undetected, I would advise either using an alt account or using discrete hacks.
 ```                
                            
-<img src="https://user-images.githubusercontent.com/62274829/187018354-cd41d782-df8f-4edd-9dc3-b795083b7026.jpeg">
-<img src="https://user-images.githubusercontent.com/62274829/187018356-e5e6900e-abae-4834-8a4b-082247f72beb.png">
+<img src="https://user-images.githubusercontent.com/62274829/193498056-22eddd3f-fb81-4528-9ea0-381ae70caff2.jpg">
+`image used was during testing (before i removed watermark)
  
  
